@@ -1,0 +1,3 @@
+[submodule "client-gateway"]
+	path = client-gateway
+	url = https://github.com/LuisGil11/msCourse-client-gateway.git
